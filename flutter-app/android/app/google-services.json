@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "667010897552",
+    "project_id": "eventhunter-tech",
+    "storage_bucket": "eventhunter-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667010897552:android:c544d8e6d21554dab12a15",
+        "android_client_info": {
+          "package_name": "com.flutterflow.eventhunterscratch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667010897552-otkt5034l8ja938h60ogko7kmd1p3vt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.eventhunterscratch",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "667010897552-5jckiqmk7l40a1fir3b5ot4bebuqucm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomQ6impg9_D3Zs0MSayUql7j4eOM_DfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667010897552-5jckiqmk7l40a1fir3b5ot4bebuqucm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667010897552-g21sab08e1pr4g6q1odnh7i26uef95j3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.eventhunterscratch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667010897552:android:9c916d8a2fff140eb12a15",
+        "android_client_info": {
+          "package_name": "eventhunter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667010897552-4d09ckaeul08jpvj24hbpsmcg9qn81gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eventhunter.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "667010897552-5jckiqmk7l40a1fir3b5ot4bebuqucm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomQ6impg9_D3Zs0MSayUql7j4eOM_DfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667010897552-5jckiqmk7l40a1fir3b5ot4bebuqucm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667010897552-g21sab08e1pr4g6q1odnh7i26uef95j3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.eventhunterscratch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
